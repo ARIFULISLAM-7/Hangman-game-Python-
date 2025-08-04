@@ -6,8 +6,8 @@ print("\nWelcome to Hangman game")
 name = input("Enter your name: ")
 print("Hello " + name + "! Best of luck!")
 time.sleep(2)
-print("The game is about to start!\n Let's play Hangman!")
-time.sleep(3)
+print("The game is about to start!\nLet's play Hangman!")
+time.sleep(2)
 
 # define the main function:
 def main():
